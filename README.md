@@ -1,9 +1,8 @@
-# Fleysen #1311 — interaktivní montážní návod
+# Fleysen #1311 — veřejné demo
 
-Demo: https://blahout.github.io/fleysen-1311-demo/
+Interaktivní 3D montážní návod: https://blahout.github.io/fleysen-1311-demo/
+Analytický přehled: https://blahout.github.io/fleysen-1311-demo/analytics.html
 
-Hotová statická verze pro ověření montážního postupu. Repozitář obsahuje pouze soubory webu, modely a licence použitých knihoven.
+Přehled obsahuje výslovně označená ukázková data po kliknutí na tlačítko. Sdílený sběr v Shopify dosud není aktivovaný. Stopky návodu lze používat místně bez odesílání. Skutečná měření ani přístupové klíče nejsou v tomto repozitáři.
 
-Verze 6. 11. 2026: souvislé přehrávání kroků, automatické přiblížení práce na spojích, dodaný model závěsu a podložky, naklopení police, aktuální logo Fleysen.
-
-Model spojovacího jazýčku je názorná interpretace mechaniky, nikoliv výrobní dokumentace. Před finálním zveřejněním zákazníkům ověřte návod při skutečné montáži.
+Tento repozitář obsahuje pouze sestavený web, 3D modely a lokální prostředky. Pracovní zdroje a backend analytiky zůstávají v soukromém blahout/fleysen. Materiály výrobce nejsou vydávány pod open-source licencí. Licence použitých knihoven jsou v licenses/.
