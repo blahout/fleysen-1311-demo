@@ -1,0 +1,8 @@
+Hardware supplied by the project owner on 2026-11-06 for Fleysen #1311.
+315856_3D.STEP — mounting plate H0, clip, screw fixing, eccentric adjustment.
+SHA256 712b75e3f2e4338d4ea1ba5b70a08f250c6b8cacd3143dde58fb4f5ad721c61d
+92584T_3D.STEP — STRONG overlay hinge for aluminium frame, damped, clip.
+SHA256 6dd48ade407c8c6fca2e39b050b8742fa7b4ab5835e44b6f5083b7aebe955978
+Converted by scripts/convert-hardware.py with OpenCascade, millimetres to metres.
+Individual solid bodies retained (3 mounting plate bodies, 7 hinge bodies).
+Geometry belongs to its respective owner; no open-source licence is asserted.
