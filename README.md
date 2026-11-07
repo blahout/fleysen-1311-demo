@@ -7,4 +7,5 @@ Přehled obsahuje výslovně označená ukázková data po kliknutí na tlačít
 
 Tento repozitář obsahuje pouze sestavený web, 3D modely a lokální prostředky. Pracovní zdroje a backend analytiky zůstávají v soukromém blahout/fleysen. Materiály výrobce nejsou vydávány pod open-source licencí. Licence použitých knihoven jsou v licenses/.
 
-Aktuální sestavení odpovídá zdrojovému commitu 0d1f23d (hlasový doprovod CZ/EN/DE; skrytý při nedostupnosti hlasu daného jazyka).
+Aktuální sestavení odpovídá zdrojovému commitu f0a7a69 (hlasový doprovod CZ/EN/DE; skrytý při nedostupnosti hlasu daného jazyka).
+
